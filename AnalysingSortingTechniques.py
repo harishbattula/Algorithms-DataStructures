@@ -1,7 +1,7 @@
 # To find time complexity of each method we import time from time
 from time import time
 
-# To generete random lists
+# To generate random lists
 from numpy.random import randint
 
 # Importing sys to increase recurssion depth for quicksort algorithm
