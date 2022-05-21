@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[
+
 # Algorithms-DataStructures\n
 ## Data Structures :\n
   ### A data structure is a particular way of organizing data in a computer so that it can be used effectively.\n
@@ -26,6 +27,7 @@
       Greedy algorithms.
       Branch and bound algorithms.
       Randomized algorithms.
+
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
