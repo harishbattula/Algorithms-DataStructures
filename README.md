@@ -28,6 +28,6 @@
       7. Branch and bound algorithms.
       8. Randomized algorithms.
 
-]]></content>
+</content>
   <tabTrigger></tabTrigger>
 </snippet>
