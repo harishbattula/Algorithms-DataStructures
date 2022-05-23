@@ -29,5 +29,5 @@
       8. Randomized algorithms.
 
 ]]></content>
-  <tabTrigger>readme</tabTrigger>
+  <tabTrigger></tabTrigger>
 </snippet>
