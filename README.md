@@ -3,10 +3,10 @@
 
 # Algorithms and DataStructures
 ## Data Structures :
-  ### Data structure is a particular way of organizing data in a computer so that it can be used effectively.
-      Python has four basic inbuilt data structures namely Lists, Dictionary, Tuple and Set.
-      These datastructures almost cover 80% of the our real world data structures.
-      We can define our own data structures in python if we are some what familer with OOPS
+  ### Data structure is a particular way of organizing data in a computer so that it can be used effectively,
+  Python has four basic inbuilt data structures namely Lists, Dictionary, Tuple and Set.
+  These datastructures almost cover 80% of the our real world data structures.
+  We can define our own data structures in python if we are some what familer with OOPS
   #### User-Defined Data Structures
       1. Stack
       2. Queue
