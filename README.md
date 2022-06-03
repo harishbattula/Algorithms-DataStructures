@@ -17,7 +17,7 @@
   
  ## Algorithm :
    ### An algorithm is a step by step process to solve a problem.
-   We can solve given problem statement in different ways using different types of algorithms available in computer science
+   We can solve given problem statement in different ways using different types of algorithms available in computer science.
    #### List of algorithms :
       1. Brute force algorithms.
       2. Simple recursive algorithms.
