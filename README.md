@@ -1,5 +1,6 @@
 <snippet>
   <content><![CDATA[
+
 ## Data Structure :
   Data structure is a particular way of organizing data in a computer so that it can be used effectively.
   Python has four basic inbuilt data structures namely Lists, Dictionary, Tuple and Set.
