@@ -2,7 +2,7 @@
   <content><![CDATA[
 
 ## Data Structure :
-  ### Data structure is a particular way of organizing data in a computer so that it can be used effectively.
+  Data structure is a particular way of organizing data in a computer so that it can be used effectively.
   Python has four basic inbuilt data structures namely Lists, Dictionary, Tuple and Set.
   These datastructures almost cover 80% of the our real world data structures.
   We can define our own data structures in python if we are some what familer with OOPS
@@ -15,7 +15,7 @@
       6. HashMaps
   
  ## Algorithm :
-   ### An algorithm is a step by step process to solve a problem.
+   An algorithm is a step by step process to solve a problem.
    We can solve given problem statement in different ways using different types of algorithms available in computer science.
    #### List of algorithms :
       1. Brute force algorithms.
