@@ -1,7 +1,5 @@
 <snippet>
   <content><![CDATA[
-
-# Algorithms and DataStructures
 ## Data Structure :
   ### Data structure is a particular way of organizing data in a computer so that it can be used effectively.
   Python has four basic inbuilt data structures namely Lists, Dictionary, Tuple and Set.
@@ -27,7 +25,8 @@
       6. Greedy algorithms.
       7. Branch and bound algorithms.
       8. Randomized algorithms.
-
+## About this repo
+We try to solve given problem statement using built in data structures, we try to implement user defined datastructures and various approaches towards solving a problem
 </content>
   <tabTrigger></tabTrigger>
 </snippet>
